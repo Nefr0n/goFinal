@@ -1,8 +1,12 @@
 Simple REST API
 1st service:
+
 Register a new user
+
 run a database->email/password/nickname
+
 2nd service:
+
 GET USER/UPDATE/DELETE/SOFT DELETE by ID
 
 ![image](https://github.com/user-attachments/assets/b8ca5ad1-7487-4442-a9b4-eeefce8b11c3)
