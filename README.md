@@ -17,10 +17,15 @@ LOCAL SETUP
 3.  Create .env file
 
 DB_HOST=localhost
+
 DB_USER=postgres
+
 DB_PASSWORD=yourpassword
+
 DB_NAME=yourdb
+
 DB_PORT=5432
+
 
 4.  Source .env
 5.  Make migrate-up
