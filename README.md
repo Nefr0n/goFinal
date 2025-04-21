@@ -5,7 +5,7 @@ LOCAL SETUP
 3.  Source .env
 4.  Make migrate-up
 5.  go run main.go
-6.  
+   
    ![image](https://github.com/user-attachments/assets/b8ca5ad1-7487-4442-a9b4-eeefce8b11c3)
 Register a new user
 run a database->email/password/nickname
