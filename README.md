@@ -32,11 +32,18 @@ DB_PORT=5432
 6.  go run main.go
 
 Стек технологий:
-Go (Golang)
-Gin (HTTP-фреймворк)
-GORM (ORM для работы с PostgreSQL)
-PostgreSQL (Реляционная база данных)
-Goose (Миграции базы данных)
-Docker (Контейнеризация)
-Swagger (Документация API)
+*Go (Golang)
+
+*Gin (HTTP-фреймворк)
+
+*GORM (ORM для работы с PostgreSQL)
+
+*PostgreSQL (Реляционная база данных)
+
+*Goose (Миграции базы данных)
+
+*Docker (Контейнеризация)
+
+
+*Swagger (Документация API)
 
